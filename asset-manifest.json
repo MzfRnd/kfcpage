@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/static/css/main.6a76a51c.css",
+    "main.js": "/static/js/main.ddf6e539.js",
+    "static/js/787.28cb0dcd.chunk.js": "/static/js/787.28cb0dcd.chunk.js",
+    "static/media/bucket.png": "/static/media/bucket.ed28c31b7a44a1fbb62c.png",
+    "static/media/family.png": "/static/media/family.75490dd5a5561050af1d.png",
+    "static/media/phone1.png": "/static/media/phone1.639ead0f4bb36856d5d9.png",
+    "static/media/box.png": "/static/media/box.0d72862254e9f04272f2.png",
+    "static/media/phone2.png": "/static/media/phone2.b07a023b6ecd025887cf.png",
+    "static/media/leg.png": "/static/media/leg.9c23a8027a9e23fff9c3.png",
+    "static/media/duos.png": "/static/media/duos.28b3173708874aad9469.png",
+    "static/media/colonel.png": "/static/media/colonel.a71dda032a96ad4386c0.png",
+    "static/media/zinger.png": "/static/media/zinger.cdee60c0893c044fe2ee.png",
+    "static/media/clssbucket.png": "/static/media/clssbucket.2bac094a31ea07a15bda.png",
+    "static/media/fries.png": "/static/media/fries.1a18353ac6238c580b74.png",
+    "static/media/footer.png": "/static/media/footer.f217baea429435644147.png",
+    "static/media/fanta.png": "/static/media/fanta.f1d6d5ca5838e5c71032.png",
+    "static/media/smallb.png": "/static/media/smallb.383749dcb169e1bbeb02.png",
+    "static/media/ellipse.png": "/static/media/ellipse.784418d48caff936c5af.png",
+    "index.html": "/index.html",
+    "main.6a76a51c.css.map": "/static/css/main.6a76a51c.css.map",
+    "main.ddf6e539.js.map": "/static/js/main.ddf6e539.js.map",
+    "787.28cb0dcd.chunk.js.map": "/static/js/787.28cb0dcd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6a76a51c.css",
+    "static/js/main.ddf6e539.js"
+  ]
+}
